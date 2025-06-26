@@ -14,7 +14,7 @@ FlashSmart adalah aplikasi mobile flashcard dengan fitur AI untuk membantu prose
 
 ## Teknologi
 
-- React Native & Expo
+- React Native 
 - TypeScript
 - SQLite (penyimpanan lokal)
 - Supabase (backend & autentikasi)
